@@ -1,4 +1,6 @@
 import React from "react";
+import '../../Styles/Style.css'
+import '../../Styles/Style2.css'
 
 
 function Aboutus() {
@@ -34,4 +36,5 @@ function Aboutus() {
         </div>
     )
 }
+
 export default Aboutus;

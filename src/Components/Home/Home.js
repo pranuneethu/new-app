@@ -59,8 +59,7 @@ function Home() {
                     </div>
 
                     <a href="https://pxk6879.uta.cloud/"><button
-                        style={{ width: '300px', color: 'white', backgroundColor: 'blanchedalmon', borderColor: 'black', borderWidth: '1px' }}>View
-                        All Posts</button></a>
+                        style={{ width: '300px', color: 'white', backgroundColor: 'blanchedalmon', borderColor: 'black', borderWidth: '1px' }}>Blog</button></a>
 
                 </div>
             </div>
